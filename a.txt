@@ -1,4 +1,6 @@
+
 public a.txt {
 public static void main(){
-  }
+     System.out.println("Git code is changed");
+ }
 }
