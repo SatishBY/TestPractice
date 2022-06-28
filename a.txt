@@ -1,0 +1,4 @@
+public a.txt {
+public static void main(){
+  }
+}
